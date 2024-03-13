@@ -1,0 +1,74 @@
+[
+    {
+        "DateLocal": "2024-03-12 16:19:51",
+        "Location": "2024-03-12 13:19:5116 km al SE de Tongoy",
+        "DateUTC": "32 km",
+        "LatLong": "-30.382 -71.415",
+        "Depth": "32 km",
+        "Magnitude": "2.5 Ml"
+    },
+    {
+        "DateLocal": "2024-03-12 11:44:21",
+        "Location": "2024-03-12 08:44:2151 km al NE de Mina Los Pelambres",
+        "DateUTC": "130 km",
+        "LatLong": "-31.464 -70.248",
+        "Depth": "130 km",
+        "Magnitude": "2.6 Ml"
+    },
+    {
+        "DateLocal": "2024-03-12 09:04:55",
+        "Location": "2024-03-12 06:04:553 km al NO de Monte Patria",
+        "DateUTC": "81 km",
+        "LatLong": "-30.683 -70.982",
+        "Depth": "81 km",
+        "Magnitude": "3.1 Ml"
+    },
+    {
+        "DateLocal": "2024-03-12 07:29:52",
+        "Location": "2024-03-12 04:29:5238 km al NE de Pica",
+        "DateUTC": "92 km",
+        "LatLong": "-20.195 -69.147",
+        "Depth": "92 km",
+        "Magnitude": "3.0 Ml"
+    },
+    {
+        "DateLocal": "2024-03-12 05:35:59",
+        "Location": "2024-03-12 02:35:598 km al S de Mina Los Pelambres",
+        "DateUTC": "91 km",
+        "LatLong": "-31.894 -70.572",
+        "Depth": "91 km",
+        "Magnitude": "2.5 Ml"
+    },
+    {
+        "DateLocal": "2024-03-12 03:42:32",
+        "Location": "2024-03-12 00:42:3275 km al O de Navidad",
+        "DateUTC": "36 km",
+        "LatLong": "-33.827 -72.627",
+        "Depth": "36 km",
+        "Magnitude": "5.1 Mw"
+    },
+    {
+        "DateLocal": "2024-03-12 01:30:00",
+        "Location": "2024-03-11 22:30:0021 km al E de Huasco",
+        "DateUTC": "50 km",
+        "LatLong": "-28.493 -71.009",
+        "Depth": "50 km",
+        "Magnitude": "3.6 Ml"
+    },
+    {
+        "DateLocal": "2024-03-12 01:26:25",
+        "Location": "2024-03-11 22:26:2521 km al NO de La Ligua",
+        "DateUTC": "52 km",
+        "LatLong": "-32.358 -71.425",
+        "Depth": "52 km",
+        "Magnitude": "2.7 Ml"
+    },
+    {
+        "DateLocal": "2024-03-12 00:58:30",
+        "Location": "2024-03-11 21:58:308 km al NE de Putre",
+        "DateUTC": "102 km",
+        "LatLong": "-18.128 -69.523",
+        "Depth": "102 km",
+        "Magnitude": "3.0 Ml"
+    }
+]

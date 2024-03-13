@@ -1,0 +1,19 @@
+server:
+  servlet:
+    context-path: /api/v${majorVer}
+
+api:
+  key: API_KEY_VALUE
+
+mongodb:
+  database: hazards
+  uri: # URI will be added at runtime
+  socket-timeout: 20000
+
+rest-services:
+  usgs:
+    endpoint: https://earthquake.usgs.gov/fdsnws/event/1/
+  central123:
+    endpoint: https://central132.cl/llamados/ultimos/
+  cbv:
+    endpoint: http://resumen.cbv.cl/logic/logic_public.php
